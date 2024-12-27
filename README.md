@@ -22,15 +22,26 @@ Accédez au répertoire du projet :
 
 cd TIC-TAC-TOE
 
-Compilez le projet :
+
+Compilation
+
+Pour compiler le projet, utilisez la commande :
 
 make
 
-Utilisation
+Cela va compiler tous les fichiers .c et créer un exécutable nommé prog
 
-Exécutez l'exécutable :
+Exécution
+Pour exécuter le programme, utilisez la commande :
 
 make run
+
+Cela va exécuter l'exécutable prog.
+
+Nettoyage
+Pour supprimer l'exécutable, utilisez la commande :
+
+make clean
 
 Aperçu des Fonctions
 
