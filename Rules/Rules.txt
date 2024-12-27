@@ -1,0 +1,34 @@
+Principe du Jeu de TIC TAC TOE
+
+Jeu sur grille 3x3.
+
+Deux joueurs s’affrontent. Ils doivent remplir chacun à leur tour une case de la grille avec le symbole qui lui est attribué : O ou X. Le gagnant est celui qui arrive a aligner trois symboles identiques, horizontalement, verticalement ou en diagonale. 
+Pour ce jeu.
+
+Vous utiliserez les touches 1, 2, 3, 4, 5, 6, 7, 8 et 9 de votre clavier pour selectionner l'emplacement de votre symbole (O losrque vous jouez contre l'IA). 
+
+       7 | 8 | 9
+      ___|___|___
+       4 | 5 | 6  
+      ___|___|___
+       1 | 2 | 3
+         |   |
+
+Vous disposerez de deux modes de Jeu à savoir :
+-	Mode SOLO (Single Player)
+-	Mode Multijoueur (02 Players)
+
+1 – Mode Solo ou Single Player
+	Vous affronterez une pseudo intelligence artificielle (Quelques lignes de codes), qui vous aura pour objectif de vous battre ou bien de faire un match nul contre vous, je n’ai pas conçu ce jeu pour que vous gagniez à tous les coups ☹.
+	Le premier tour ou premier mouvement de jeu (Celui qui jouera en premier lors d’une partie) sera attribué automatiquement et de façon aléatoire entre vous et ma pseudo IA.
+  
+  NB: Vous pourrez choisir entre le mode facile et le mode extreemement difficile que en fonction de vos attentes.  
+
+2 – Mode Multijoueur (02 Players).
+	Vous vous affronterez (Vous et un de vos amis ou ennemi, on ne blague pas avec l’adversaire 😐) lors d’une partie, le principe du premier mouvement du jeu sera le même que celui du Single mode.
+Que le meilleur gagne.
+  
+Jeu entièrement codé par BELL AQIL alias @bello-dev
+	
+ 
+ 
