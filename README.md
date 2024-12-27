@@ -14,7 +14,7 @@ Fichiers
 
 Installation
 
-    Clonez le dépôt :
+Clonez le dépôt :
 
     git clone https://github.com/Bello-dev/TIC-TAC-TOE.git
 
@@ -27,24 +27,20 @@ Compilation
 
 Pour compiler le projet, utilisez la commande :
 
-make
+    make
 
 Cela va compiler tous les fichiers .c et créer un exécutable nommé prog
 
 Exécution
-Clonez le dépôt :
 
-git clone https://github.com/Bello-dev/TIC-TAC-TOE.git
-Pour exécuter le programme, utilisez la commande :
-
-make run
-
+    make run
+    
 Cela va exécuter l'exécutable prog.
 
 Nettoyage
 Pour supprimer l'exécutable, utilisez la commande :
 
-make clean
+    make clean
 
 Aperçu des Fonctions
 
