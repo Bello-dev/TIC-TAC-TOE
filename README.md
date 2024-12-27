@@ -1,4 +1,4 @@
-##TIC-TAC-TOE
+#TIC-TAC-TOE
 Description
 
 Le TIC-TAC-TOE (le morpion) est un jeu codé en C avec une interface très conviviale en mode terminal. Ce projet permet de jouer en mode solo contre une IA ou en mode multijoueur.
